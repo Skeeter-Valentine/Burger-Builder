@@ -1,3 +1,10 @@
+***Gif of app in action in my portfolio!***
+
+Burger Builder
+
+A dynamic app for putting together and ordering a burger at a restaurant. Includes pricing, ingredients, checkout module, and sidebar.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
